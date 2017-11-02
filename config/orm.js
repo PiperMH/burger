@@ -1,6 +1,4 @@
 
-.
-
 var connection = require("./connection.js");
 
 function insertQuestionMarks(num) {
